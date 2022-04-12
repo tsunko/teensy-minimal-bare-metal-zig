@@ -5,3 +5,5 @@ The real neat thing is that this is all bare metal! Our only dependency is Zig a
 
 Build the flashable image using `zig build`, then use `arm-none-eabi\bin\objcopy -O ihex -R .eeprom <output ELF in zig-out>` 
 to produce a valid image for the default Teensy flashing program.
+
+This project was mostly based on using https://github.com/blazer82/baremetal-blinky.teensy as a template to translate from.
