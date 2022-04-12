@@ -1,1 +1,0 @@
-19253 44191571343791130 1646370494000000000 4144e6bcf16c9e4e7c7d5db1e8732a94 C:\Users\tsunko\AppData\Roaming\zig\lib\libc\mingw\lib-common\advapi32.def.in
