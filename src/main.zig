@@ -9,22 +9,16 @@ pub export fn main() void {
     reg.GPIO7.GDIR.* |= (1 << 3);
 
     while(true){
-        var i: u32 = 0;
-        
-        reg.GPIO7.DR_CLEAR.* = (1 << 3);
-        while(i < 20000000) : (i += 1) {
-            asm volatile ("" : : [val] "rm" (i) : "memory");
-        }
-
-        i = 0;
-
         reg.GPIO7.DR_SET.* = (1 << 3);
-        while(i < 20000000) : (i += 1) {
-            asm volatile ("" : : [val] "rm" (i) : "memory");
-        }    
+        busyDelay();
+        reg.GPIO7.DR_CLEAR.* = (1 << 3);
+        busyDelay();
     }
 }
 
 inline fn busyDelay() void {
-
+    var i: u32 = 0;
+    while(i < 20000000) : (i += 1) {
+        asm volatile ("" : : [val] "rm" (i) : "memory");
+    }
 }
