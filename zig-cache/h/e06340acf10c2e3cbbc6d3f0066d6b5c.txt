@@ -1,0 +1,14 @@
+1507 9851624185051375 1649673783162919300 c25be10b46bc11dc58aa3c5ceed77955 C:\Users\tsunko\Desktop\teensy-zig-minimal\src\_startup.zig
+1507 9851624185051375 1649673783162919300 c25be10b46bc11dc58aa3c5ceed77955 C:\Users\tsunko\Desktop\teensy-zig-minimal\src\_startup.zig
+5428 3659174697797167 1646370498000000000 c29045c0f78f3a1bf3b14207bf260179 C:\Users\tsunko\AppData\Roaming\zig\lib\std\std.zig
+7772 16325548649353121 1649746247124934100 bfa70f973451b9946238496fc976f336 C:\Users\tsunko\Desktop\teensy-zig-minimal\src\linker.ld
+5428 3659174697797167 1646370498000000000 c29045c0f78f3a1bf3b14207bf260179 C:\Users\tsunko\AppData\Roaming\zig\lib\std\std.zig
+28465 5348024558061023 1646370498000000000 d5e54ba5af18ca13269a1bf2c00a3724 C:\Users\tsunko\AppData\Roaming\zig\lib\std\builtin.zig
+21902 3659174697797165 1646370498000000000 194d5ec7a6638e93022e85d0fd99ea37 C:\Users\tsunko\AppData\Roaming\zig\lib\std\start.zig
+60954 3940649674507824 1646370498000000000 28085278faf7a08b86f9b120f9482cd7 C:\Users\tsunko\AppData\Roaming\zig\lib\std\target.zig
+66319 2533274790956907 1646370498000000000 38807f5fb27a6c237cb73dfeed92c02b C:\Users\tsunko\AppData\Roaming\zig\lib\std\target\arm.zig
+58904 7881299348456984 1646370498000000000 ac65bd6bc39f5e1f9b342ae45fa9bf2d C:\Users\tsunko\AppData\Roaming\zig\lib\std\math.zig
+35272 3940649674507803 1646370498000000000 310afeb6aff323c37c29e17231192b60 C:\Users\tsunko\AppData\Roaming\zig\lib\std\meta.zig
+4306840 38280596832844733 1649668732214602100 1fa663ea076165f23d4602ea810f8980 C:\Users\tsunko\Desktop\teensy-zig-minimal\src\imxrt1062.zig
+71482 3659174697797105 1646370498000000000 675f35e5adccb17c6c1caf06700fa6a0 C:\Users\tsunko\AppData\Roaming\zig\lib\std\debug.zig
+776 54043195528570139 1649746685333742900 8da2c76cbdd9c7bdf1e564f6556731dc C:\Users\tsunko\Desktop\teensy-zig-minimal\src\main.zig

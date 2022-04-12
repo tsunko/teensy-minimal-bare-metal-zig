@@ -1,0 +1,1 @@
+56944 12103423998777255 1646370494000000000 d01f2b3a7fbdb7b6ee42d2cd6f6829ec C:\Users\tsunko\AppData\Roaming\zig\lib\libc\mingw\lib-common\ntdll.def.in

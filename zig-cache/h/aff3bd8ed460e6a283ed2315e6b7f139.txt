@@ -1,0 +1,1 @@
+36856 57139420272481965 1646370494000000000 51d5587a7a177928efc7c1a802501ad3 C:\Users\tsunko\AppData\Roaming\zig\lib\libc\mingw\lib-common\kernel32.def.in
